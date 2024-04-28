@@ -1,6 +1,7 @@
 #   Copyright (c) 2024 Silvio Oliveira 
 #   Contact: <silvio.oliveira347@gmail.com>; www.linkedin.com/in/silvio-oliveira-87155a203
- 
+#   Full project: https://github.com/Silvio347/Script-For-Organization
+
 import os
 import datetime
 import locale
