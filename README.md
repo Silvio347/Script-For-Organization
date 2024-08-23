@@ -7,3 +7,4 @@ Na área de telecomunicações, "site" refere-se ao local onde ficam a torre e a
 
 Link de demonstração: https://youtu.be/ZPVutr3csno
 
+![image](https://github.com/user-attachments/assets/eb33c03d-9b78-42a7-bf18-089701cb481f)
